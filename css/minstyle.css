@@ -1,0 +1,26 @@
+body{
+  background-image: url("../imagenes/prof.jpg");
+}
+.colo1{
+  color: white;
+  text-align: center;
+  font-weight: bold;900;
+font-size: 50px;
+}
+
+.colo2{
+  color: red;
+  font-weight: 250px;
+  font-size: 20px;
+}
+
+.ima{
+  weight: 180px;
+  height: 160px;
+  color: black;
+}
+.borde{
+border: 1px solid black;
+heigt: 50px;
+text-align: center;
+}
