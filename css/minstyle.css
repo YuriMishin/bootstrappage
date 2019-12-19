@@ -13,14 +13,24 @@ font-size: 50px;
   font-weight: 250px;
   font-size: 20px;
 }
+.colo3{
+  color: white;
+}
 
+.bold{
+  font-weight: bold;
+}
 .ima{
   weight: 180px;
   height: 160px;
   color: black;
 }
+
 .borde{
-border: 1px solid black;
-heigt: 50px;
-text-align: center;
+border: 10px solid;
+}
+
+.cardd{
+  background-color: #fff0;
+  border: 1px solid rgb(0, 0, 0);
 }
